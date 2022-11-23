@@ -1,1 +1,1 @@
-terraform apply -auto-approve
+"C:\Program Files\terraform\terraform.exe" apply -auto-approve
